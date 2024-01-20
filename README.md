@@ -1,6 +1,6 @@
 # Reproduction of tazz page
 
-Here you will learn how to use flex [https://css-tricks.com/snippets/css/a-guide-to-flexbox/], reproducing [https://tazz.ro/craiova/oras] page using html and css (no functionality required)
+Here you will learn how to use flex [https://css-tricks.com/snippets/css/a-guide-to-flexbox/], reproducing [https://tazz.ro/craiova/oras] page using html and css (no functionality required) as seen in the following image, not the whole page
 ![https://tazz.ro/craiova/oras](images/tazz.PNG)
 
 ## Steps
